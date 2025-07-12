@@ -17,7 +17,7 @@ This is a **beginner-friendly frontend project** where I recreated the landing p
 ## 🛠️ Built With
 
 - HTML5  
-- CSS3  
+- CSS
 - JavaScript 
 
 ---
